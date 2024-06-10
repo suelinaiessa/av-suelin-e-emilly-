@@ -28,3 +28,9 @@ li {
 li:hover {
     background-color: #80d3d6;
 }
+
+#imagem-item{
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+}
